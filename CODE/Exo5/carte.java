@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Carte {
     private final int taille;
     private final List<Ressource> ressources;
