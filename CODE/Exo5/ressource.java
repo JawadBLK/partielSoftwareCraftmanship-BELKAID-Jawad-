@@ -1,13 +1,29 @@
 public class Ressource {
-    private final String type;
+    public enum Type {
+        NOURRITURE,
+        EAU,
+        ARME
+    }
+
+    private final Type type;
     private final int x;
     private final int y;
 
-    public Ressource(String type, int x, int y) {
+    public Ressource(Type type, int x, int y) {
         this.type = type;
         this.x = x;
         this.y = y;
     }
 
-    // Getters et Setters
+    public Type getType() {
+        return type;
+    }
+
+    public int getX() {
+        return x;
+    }
+
+    public int getY() {
+        return y;
+    }
 }
