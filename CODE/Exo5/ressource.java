@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Ressource {
     public enum Type {
         NOURRITURE,
