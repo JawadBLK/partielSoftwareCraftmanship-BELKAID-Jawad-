@@ -5,7 +5,7 @@
 
 ## 2. Partie questions  
 
-# 2. Qu’est ce que du code propre ?
+### 2. Qu’est ce que du code propre ?
 Du code propre c'est un code qui est tester de manière à ce que les tests passent.
 C'est aussi du code qui doit exprimer l'intention derrière le code pour directement identifier son utilité.
 C'est du code qui se veut essentiel, c'est à dire qu'il faut éviter les duplications et faire en sorte que chaque classes, méthodes ... soient minimalistes.  <br>
@@ -14,7 +14,7 @@ Si le code est considérer comme propre, alors les commentaires ne sont qu'optio
 Il ne faut que les commenataires qui permettent de donner des informations essentiels ou qui exprime l'intention. <br>
 Les test sont toutes aussi important, ils doivent respecter les mêmes règles que le code. 
 <br>
-# 3. De votre expérience de l’agilité en entreprise, en vous basant sur les piliers du manifeste vu en cours. Que pourriez vous améliorer dans la gestion de vos projets ?  
+### 3. De votre expérience de l’agilité en entreprise, en vous basant sur les piliers du manifeste vu en cours. Que pourriez vous améliorer dans la gestion de vos projets ?  
 Personnellement dans mon entreprise et plus particulièrement dans mon équipe je changerais certaines pratiques. 
 Pour le moment, notre travail en agilité se base sur des daily, sprint (2 semaines) ... 
 Ce que je changerais c'est l'adaption de notre équipe, car aujourd'hui on a une feuille de route que l'on essaye de suivre à la lettre mais pour moi 
