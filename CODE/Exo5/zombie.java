@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Zombie {
     private int x;
     private int y;
