@@ -15,7 +15,7 @@ Personnellement dans mon entreprise et plus particulièrement dans mon équipe j
 Pour le moment, notre travail en agilité se base sur des daily, sprint (2 semaines) ... 
 Ce que je changerais c'est l'adaption de notre équipe, car aujourd'hui on a une feuille de route que l'on essaye de suivre à la lettre mais pour moi 
 c'est contre productif, il faut qu'on soit plus souple sur les changements qui peuvent survenir.   
-Il faudrait aussi que la communication soit mieux gérer, car l'un des pillier du manifeste est la communication en face à face. 
+Il faudrait aussi que la communication soit mieux gérer, car l'un des pillier du manifeste est la communication en face à face.  <br>
 Aujourd'hui avec le télétravail, c'est rare d'avoir tout les membres de l'équipe ensemble pour discuter des sujets en cours et pourvoir avancer de manière efficiente. 
 Ce sont les deux points que je changerais dans mon équipe, l'adaptation au changement et la communication. 
 
